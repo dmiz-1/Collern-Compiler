@@ -2,7 +2,7 @@
 Collern Compiler for snap
 A compiler for collern
 
-# instructions #:
+# instructions:
 1. Download the .xml file
 2. Drag the file to the Snap.berkeley.edu page
 3. write a program on comp block
